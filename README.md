@@ -7,6 +7,6 @@ You need to have Bolt IoT kit first to initialize and develop this product you c
 
 You can watch the demo of this project on - https://www.youtube.com/watch?v=KHUakJ0udYk
 
-you can have detail study of this product on Hackster.io.
+you can have detail study of this product on Hackster.io. - https://www.hackster.io/nakuldubey0601/temp-threshold-monitoring-for-pharmaceutical-industries-4699d2
 
 all right reserved -nakul dubey
